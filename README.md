@@ -9,11 +9,11 @@ If there are jokes that are a bit off-color, place those in a file of the same
 name but add `-nsfw` on the end. (Ex: off-color puns about fruit might go in 
 `fruit-nsfw.md`)
 
-Within each file, there should be a header and a brief description. For example:
+Within each file, there should be a header (use `#`) and a brief description. For example:
 > # Fruit
 > Puns based on all kinds of delicious fruit
 
-Then list puns with bullets. Feel free to divide these into additional categories:
+Then list puns with bullets (use `-`). Feel free to divide these into additional categories (with `##`):
 > ## Banana-specific
 > - I love bananas. They're so appealing.
 >
