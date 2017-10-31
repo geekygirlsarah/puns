@@ -23,3 +23,5 @@ Puns based on all kinds of delicious fruit
 ## Cantaloupe:
 - Why dont melons get married? they cantaloupe.
 
+## Lime:
+- I don't want kids yet. Why can't you wait until lime ready?
