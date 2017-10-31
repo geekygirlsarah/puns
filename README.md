@@ -1,4 +1,4 @@
-# puns
+0# puns
 A repository of puns on a variety of topics
 
 ## Organization
@@ -14,11 +14,11 @@ Within each file, there should be a header and a brief description. For example:
 > Puns based on all kinds of delicious fruit
 
 Then list puns with bullets. Feel free to divide these into additional categories:
-> ## Apples
-> - I heard the apple stopped in the road because it ran out of juice.
-> 
-> ## Bananas
+> ## Banana-specific
 > - I love bananas. They're so appealing.
+>
+> ## Fruit juice
+> - I heard the apple stopped in the road because it ran out of juice.
 
 If you're unfamiliar with Markdown format, you can check out [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/) article.
 
