@@ -6,6 +6,7 @@ Puns based on all kinds of delicious fruit
 
 ## Fruit juice
 - I heard the apple stopped in the road because it ran out of juice.
+- Orange you glad I didn't say banana?
 
 ## Berries
 -These are berry bad puns.
