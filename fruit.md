@@ -9,6 +9,9 @@ Puns based on all kinds of delicious fruit
 - Orange you glad I didn't say banana?
 - Contributing to this project is fun and easy; my puns are landing smoothie-ly and I'm really starting to blend in!
 
+## Apples
+- How do you recognize high-class apple eaters? Decorum.
+
 ## Berries
 - These are berry bad puns.
 
